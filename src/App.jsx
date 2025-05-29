@@ -39,3 +39,9 @@ function App() {
 }
 
 export default App
+
+
+//https://gckhnrdxgunvsirllydw.supabase.co
+
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdja2hucmR4Z3VudnNpcmxseWR3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDgyNjY1NTcsImV4cCI6MjA2Mzg0MjU1N30.ZwdF-PYMRewPpp-YErUl0h8ZV30-oGOYG0X2Yod61Iw
