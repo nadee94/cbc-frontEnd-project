@@ -3,6 +3,7 @@ import { Link } from "react-router-dom"
 import { BrowserRouter, Routes, Route} from 'react-router-dom'
 import AdminProductsPage from "./admin/AdminProductsPage"
 import AddProductpage from "./admin/addProductPage"
+import EditProductpage from "./admin/editProductPage"
 
 
 export default function AdminPage() {
@@ -30,6 +31,8 @@ export default function AdminPage() {
                         <Route path="/orders" element={<h1>orders</h1>}/>
                         <Route path="/reviews" element={<h1>Reviews</h1>}/>
                         <Route path="/add-product" element={<AddProductpage/>}/>
+                        <Route path="/edit-product" element={<EditProductpage/>}/>
+
 
 
           
